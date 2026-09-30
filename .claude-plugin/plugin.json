@@ -1,0 +1,10 @@
+{
+  "name": "jira-workflow",
+  "version": "1.0.0",
+  "description": "Shared workflow for creating and reviewing Jira tickets and Confluence documentation. For BA, dev and QA alike — enforces one ticket schema, dependency matrix and documentation template, with a fast /ticket path for everyday one-liners. Every new ticket is reviewed by a second model before you see it. Adapt it to your project by filling in references/project-profile.md.",
+  "author": {
+    "name": "Ihor Nesterenko"
+  },
+  "license": "MIT",
+  "keywords": ["jira", "confluence", "ba", "dev", "qa", "tickets", "specs", "test-matrix"]
+}
